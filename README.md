@@ -12,7 +12,7 @@ This is a quick and dirty Python script to download a player's PanelJam panels.
 
 Usage:
 
-    python3 pjbackup.py \[-l] username
+    python3 pjbackup.py [-l] username
 
 Where:
 
